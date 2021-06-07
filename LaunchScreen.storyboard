@@ -45,10 +45,10 @@
             </objects>
             <point key="canvasLocation" x="53.600000000000001" y="47.226386806596707"/>
         </scene>
-        <!--Game-->
+        <!--CustomImages-->
         <scene sceneID="H6N-ho-0TC">
             <objects>
-                <viewControllerPlaceholder storyboardName="Main" referencedIdentifier="Game" id="Uf9-Ve-Glk" sceneMemberID="viewController">
+                <viewControllerPlaceholder storyboardName="Custom_images" referencedIdentifier="CustomImages" id="Uf9-Ve-Glk" sceneMemberID="viewController">
                     <navigationItem key="navigationItem" id="MUf-p3-uTt"/>
                 </viewControllerPlaceholder>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pU7-oU-v0c" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
