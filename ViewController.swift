@@ -9,7 +9,10 @@
 import UIKit
 
 class ViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource {
+    
     @IBOutlet weak var collectionView: UICollectionView!
+    
+    
     
     
     var model = CardModel()

@@ -28,6 +28,7 @@ class CardModel {
             ///todo randomnize array
             
         }
+        generatedCardsArray.shuffle();
         return generatedCardsArray
     }
 }
